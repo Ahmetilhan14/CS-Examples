@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Midterm2\Midterm2\bin\Debug\Midterm2.exe.config
+C:\Users\HP\source\repos\Midterm2\Midterm2\bin\Debug\Midterm2.exe
+C:\Users\HP\source\repos\Midterm2\Midterm2\bin\Debug\Midterm2.pdb
+C:\Users\HP\source\repos\Midterm2\Midterm2\obj\Debug\Midterm2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Midterm2\Midterm2\obj\Debug\Midterm2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Midterm2\Midterm2\obj\Debug\Midterm2.exe
+C:\Users\HP\source\repos\Midterm2\Midterm2\obj\Debug\Midterm2.pdb
